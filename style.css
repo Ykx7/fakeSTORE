@@ -7,6 +7,8 @@
 body{
     background-color: rgb(255, 255, 255);
     font-family: "Press Start 2P","sans-serif";
+    font-style: italic;
+    font-weight: bold;
 }
 .container {
     display: flex;
@@ -39,7 +41,8 @@ body{
     text-align: center;
     overflow: hidden; 
     text-overflow: ellipsis; 
-    white-space: nowrap; 
+    white-space: nowrap;
+    text-decoration: underline;
 }
 
 .card span {
