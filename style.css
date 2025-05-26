@@ -5,7 +5,7 @@
 
 }
 body{
-    background-color: rgb(244, 215, 215);
+    background-color: rgb(255, 255, 255);
 }
 .container {
     display: flex;
@@ -21,7 +21,7 @@ body{
     overflow: hidden; 
     border: 1px solid #ccc; 
     border-radius: 8px; 
-    background-color: #fff; 
+    background-color: #f1eded; 
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
