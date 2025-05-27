@@ -5,7 +5,12 @@
 
 }
 body{
-    background:linear-gradient(to right,skyblue,white);
+    background-image: url("ukrainian-capital-night-sky-desktop-wallpaper.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    /*background:linear-gradient(to right,skyblue,white);*/
     font-family: "Press Start 2P","sans-serif";
     font-style: italic;
     font-weight: bold;
